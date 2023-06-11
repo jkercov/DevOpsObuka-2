@@ -1,1 +1,0 @@
-# DevOpsObuka-2
